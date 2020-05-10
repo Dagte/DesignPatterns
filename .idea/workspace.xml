@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4ac027ff-8e91-4bc7-a170-4d5abd8ffb0e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>calculateFibonacci</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>fibonacci</replace>
+    </replaceStrings>
+  </component>
+  <component name="ProjectId" id="1biD7ELMeFifQU8v4wSbZH9L6GG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1587225184106" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/homework/two/after" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="homework.one.before" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="eight.after" />
+      <recent name="one" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="eight.after" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="homework.three.after" />
+      <recent name="five" />
+      <recent name="four" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\David\Desktop\SDA Java\Modulo 07 Design patterns\Feride\clean-code-tll11\src\main\java\homework\two\after" />
+      <recent name="C:\Users\fferi\IdeaProjects\clean-code-last\src\main\java\thirteen\open\closed\principle\after" />
+      <recent name="C:\Users\fferi\IdeaProjects\clean-code-last\src\main\java\nine\two\after" />
+      <recent name="C:\Users\fferi\IdeaProjects\clean-code-last\src\main\java\nine\two\before" />
+      <recent name="C:\Users\fferi\IdeaProjects\clean-code-last\src\main\java\nine\one\after" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\fferi\IdeaProjects\clean-code-last\src\main\java\two" />
+      <recent name="C:\Users\fferi\IdeaProjects\clean-code-last\src\main\java\three" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Second">
+    <configuration name="First" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="one.First" />
+      <module name="clean.code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="one.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Second" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="one.Second" />
+      <module name="clean.code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="one.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringBasedExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="twelve.StringBasedExamples" />
+      <module name="clean-code-last" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="twelve.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReservationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="clean-code-last" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="eight.after.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="eight.after" />
+      <option name="MAIN_CLASS_NAME" value="eight.after.ReservationTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReservationTest.regularCustomerCancellingLessThan48HoursShouldThrowException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="clean-code-last" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="eight.after.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="eight.after" />
+      <option name="MAIN_CLASS_NAME" value="eight.after.ReservationTest" />
+      <option name="METHOD_NAME" value="regularCustomerCancellingLessThan48HoursShouldThrowException" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Second" />
+        <item itemvalue="Application.First" />
+        <item itemvalue="Application.StringBasedExamples" />
+        <item itemvalue="JUnit.ReservationTest" />
+        <item itemvalue="JUnit.ReservationTest.regularCustomerCancellingLessThan48HoursShouldThrowException" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ac027ff-8e91-4bc7-a170-4d5abd8ffb0e" name="Default Changelist" comment="" />
+      <created>1568893976399</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568893976399</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ReservationTest - 2019.09.21 at 13h 11m 31s.xml">
+      <configuration name="ReservationTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReservationTest - 2019.09.21 at 13h 13m 55s.xml">
+      <configuration name="ReservationTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReservationTest - 2019.09.21 at 13h 17m 54s.xml">
+      <configuration name="ReservationTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReservationTest - 2019.09.21 at 13h 20m 02s.xml">
+      <configuration name="ReservationTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReservationTest - 2019.09.21 at 13h 29m 38s.xml">
+      <configuration name="ReservationTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReservationTest - 2019.09.21 at 13h 35m 12s.xml">
+      <configuration name="ReservationTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReservationTest - 2019.09.21 at 13h 36m 24s.xml">
+      <configuration name="ReservationTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReservationTest - 2019.09.21 at 13h 37m 21s.xml">
+      <configuration name="ReservationTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReservationTest - 2019.09.21 at 13h 39m 17s.xml">
+      <configuration name="ReservationTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReservationTest - 2019.09.21 at 13h 54m 29s.xml">
+      <configuration name="ReservationTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="645" y="204" key="#com.intellij.ide.util.MemberChooser" timestamp="1589131366945">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="645" y="204" key="#com.intellij.ide.util.MemberChooser/-1366.0.1366.728/0.0.1680.1010@0.0.1680.1010" timestamp="1589131366945" />
+    <state x="-903" y="117" key="FileChooserDialogImpl" timestamp="1589106031926">
+      <screen x="-1366" y="0" width="1366" height="728" />
+    </state>
+    <state x="-903" y="117" key="FileChooserDialogImpl/-1366.0.1366.728/0.0.1680.1010@-1366.0.1366.728" timestamp="1589106031926" />
+    <state x="-988" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1589107062009">
+      <screen x="-1366" y="0" width="1366" height="728" />
+    </state>
+    <state x="-988" y="186" key="com.intellij.ide.util.TipDialog/-1366.0.1366.728/0.0.1680.1010@-1366.0.1366.728" timestamp="1589107062009" />
+    <state x="-953" y="118" width="540" height="501" key="extract.method.dialog" timestamp="1589110273703">
+      <screen x="-1366" y="0" width="1366" height="728" />
+    </state>
+    <state x="-953" y="118" width="540" height="501" key="extract.method.dialog/-1366.0.1366.728/0.0.1680.1010@-1366.0.1366.728" timestamp="1589110273703" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>now.getTime()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>from.getTime()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>clean-code-last</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.google.code.findbugs:jsr305:3.0.2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
